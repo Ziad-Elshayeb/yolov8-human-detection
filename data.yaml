@@ -1,0 +1,6 @@
+# Don't take the relative paths, try to take the whole pass to make sure it works
+train: D:\Ziad\Kaggle\Deep Learning\Projects\COCO\dataset\train\images
+val: D:\Ziad\Kaggle\Deep Learning\Projects\COCO\dataset\val\images
+
+nc: 1
+names: ['person']
