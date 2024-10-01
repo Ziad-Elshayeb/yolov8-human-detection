@@ -1,3 +1,9 @@
 ultralytics
 torch
 opencv-python
+pycocotools
+os
+shutil
+random
+json
+CocoDataset==0.1.2
