@@ -4,7 +4,7 @@ import time
 from ultralytics import YOLO
 
 # Load the pre-trained YOLOv8 model (adjust this to your model path)
-model = YOLO('human_detection_model.pt')  # Replace with the path to your YOLOv8 model
+model = YOLO('yolov8-human-detection_model.pt')  # Replace with the path to your YOLOv8 model
 
 # Define the video file path (adjust this to your video path)
 video_path = 'test video.mp4'  # Replace with the path to your video file
